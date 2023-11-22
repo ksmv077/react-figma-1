@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 770px;
+    background: rgba(0, 164, 56, 0.09);
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 15px 25px 15px 0;
+    background: rgba(240, 14, 14, 0.10);
+}
+.logo_image {
+    width: 50px;
+}
+.logo_image img {
+    max-width: 100%;
+}
+.logo_text {
+    color: #F27C0F;
+    font-family: Gilroy;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.menu {
+    display: flex;
+    gap: 10px;
+}
+.menu a:hover {
+    color: #F27C0F;
+}

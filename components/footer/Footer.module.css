@@ -1,0 +1,54 @@
+.footer {
+    background: rgba(242, 124, 15, 0.30);
+    display: flex;
+    gap: 103px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 0 8px;
+}
+
+.head {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.info {
+    padding: 5px 0 5px 5px;
+    background: rgba(196, 196, 196, 0.40);
+    color: rgba(0, 0, 0, 0.50);
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.logo {
+    width: 112px;
+    height: 51px;
+    display: flex;
+    align-items: center;
+    background: rgba(196, 196, 196, 0.40);
+    opacity: 0.5;
+}
+
+.menu {
+    height: 40px;
+    display: flex;
+    gap: 30px;
+    padding: 0 5px;
+    background: rgba(130, 19, 19, 0.20);
+    align-items: center;
+    color: rgba(0, 0, 0, 0.50);
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+
+li {
+    list-style: none;
+}

@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+
+.container {
+    width: 770px;
+    margin: 0 auto;
+}
